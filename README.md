@@ -1,6 +1,6 @@
 # Krunky 
 
-###### [Website](https://ickerio.github.io/Krunky-Docs) | [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=588009094858670100&scope=bot&permissions=281600) | [Discord Server](https://discord.gg/zJx726N)
+###### [Website](https://ickerio.github.io/Krunky-Docs/) | [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=588009094858670100&scope=bot&permissions=281600) | [Discord Server](https://discord.gg/zJx726N)
 
 Discord bot for online fps game Krunker.io
  
