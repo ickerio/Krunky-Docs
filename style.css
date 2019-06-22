@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: FFF Forward;
+    border-collapse: collapse;
+    background-color: #E6E6E6;
+    padding: 120px 0 0;
+    width: 100%;
+}
+
+.titlebar {
+    overflow: hidden;
+    background-color: #1A1F26;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+p {
+    font-size: 1.7vw;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+@font-face {
+    font-family: FFF Forward;
+    src: url(fonts/krunky.tff);
+}
+
+table {
+    width: 86%;
+    margin-left: 7%; 
+    margin-right: 7%;
+    float: center;
+    display: block;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+td {
+    background-color: #36393F;
+    border: 2px solid #FFCA18;
+}
+
+th {
+    color: #606060;
+}
+
+.button{
+    width: 100%;
+    text-align: center;
+}
+
+a:link, a:visited {
+    background-color: #FFCA18;
+    color: white;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+  
+a:hover, a:active {
+    background-color: rgba(255, 201, 24, 0.75);
+}
